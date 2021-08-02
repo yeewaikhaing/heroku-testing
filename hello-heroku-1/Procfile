@@ -1,1 +1,0 @@
-web: java -jar target/hello-heroku-1-1.0.jar
